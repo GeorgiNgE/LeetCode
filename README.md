@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/GeorgiNgE/LeetCode/tree/master/0180-consecutive-numbers) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/GeorgiNgE/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/GeorgiNgE/LeetCode/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/GeorgiNgE/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/GeorgiNgE/LeetCode/tree/master/1182-game-play-analysis-iv) |
