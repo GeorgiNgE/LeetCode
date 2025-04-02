@@ -11,4 +11,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-immediate-food-delivery-ii](https://github.com/GeorgiNgE/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/GeorgiNgE/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/GeorgiNgE/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [2057-count-salary-categories](https://github.com/GeorgiNgE/LeetCode/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
