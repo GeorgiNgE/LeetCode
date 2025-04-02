@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/GeorgiNgE/LeetCode/tree/master/0180-consecutive-numbers) |
 | [1155-product-sales-analysis-iii](https://github.com/GeorgiNgE/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/GeorgiNgE/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/GeorgiNgE/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
